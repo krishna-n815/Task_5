@@ -1,5 +1,6 @@
 # Task_5
-Basic SELECT Queries in SQL
+
+**Basic SELECT Queries in SQL**
 
 
 **📚 Objective**
